@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula16;
+package br.com.natanael.aula16;
 
 public class LoopWhile {
 

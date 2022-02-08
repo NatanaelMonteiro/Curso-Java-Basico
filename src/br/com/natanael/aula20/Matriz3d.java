@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula20;
+package br.com.natanael.aula20;
 
 public class Matriz3d {
 

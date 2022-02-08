@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula19;
+package br.com.natanael.aula19;
 
 public class Arrays {
 

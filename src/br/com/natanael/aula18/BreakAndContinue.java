@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula18;
+package br.com.natanael.aula18;
 
 import java.util.Scanner;
 

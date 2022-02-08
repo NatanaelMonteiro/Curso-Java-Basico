@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula10;
+package br.com.natanael.aula10;
 
 public class Variaveis {
 

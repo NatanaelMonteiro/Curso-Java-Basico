@@ -1,4 +1,4 @@
-package com.natanael.cursojavabasico.aula17;
+package br.com.natanael.aula17;
 
 public class LoopFor {
 
