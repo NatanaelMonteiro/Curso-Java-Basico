@@ -7,6 +7,8 @@ public class TesteCarro {
 		Carro carro = new Carro();
 		carro.marca = "Peugeot";
 
+		System.out.println(carro.marca);
+		
 	}
 
 }
